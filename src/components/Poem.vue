@@ -27,8 +27,8 @@ export default {
       })
       .catch((res) => {
         console.log(res)
-        this.poem = "醉后不知天在水，满船清梦压星河。"
-        this.info = "唐珙《题龙阳县青草湖》"
+        this.poem = "云母屏风烛影深 ，长河渐落晓星沉。"
+        this.info = "李商隐《嫦娥》"
       })
   },
 }
