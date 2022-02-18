@@ -32,6 +32,7 @@ export default {
   data() {
     return {
       titleArray: [
+        "回家的路。如果网站在维护，此处会有通知",
         "实用网站",
         "奇趣网站",
         "剪辑设计",
