@@ -1,5 +1,14 @@
 [
   {
+    "title": "回家的路。如果网站在维护，此处会有通知",
+    "children": [
+      {
+        "text": "繁星ACG",
+        "url": "https://fxacg.vip/",
+        "desc": "一个很棒的资源站"
+      },
+[
+  {
     "title": "实用网站",
     "children": [
       {
@@ -8,9 +17,9 @@
         "desc": "一觉醒来世界发生了什么"
       },
       {
-        "text": "繁星ACG",
-        "url": "https://fxacg.vip/",
-        "desc": "互联网上最值得信赖的指南网站"
+        "text": "微信运动霸榜",
+        "url": "https://shuabu.xyz/",
+        "desc": "轻松解决每日运动任务"
       },
       {
         "text": "wikiHow",
